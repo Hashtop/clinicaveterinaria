@@ -3,7 +3,7 @@ Heitor de Oliveira Fonseca - CEFET-MG
     01/12/2026 - Trabalho Prático 2
 
 Implementa um sistema de cadastro de animais para um clínica veterinária.
-Ele possui as seguintes funcionálidades:
+Ele possui as seguintes funcionalidades:
 - Inclusão de animal
 - Pesquisa de animal
 - Listagem de animais

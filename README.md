@@ -1,6 +1,8 @@
 # clinicaveterinaria
 Um programa para lidar com os cadastros de animais de uma clínica veterinária fictícia.
 
+[![CodeFactor](https://www.codefactor.io/repository/github/hashtop/clinicaveterinaria/badge)](https://www.codefactor.io/repository/github/hashtop/clinicaveterinaria)
+
 ## Implementação
 Implementado, inicialmente, para funcionar apenas na memória RAM (sem gravação estática), mas com toda a estrutura (vetor principal e quantidade de elementos) gravável com facilidade em arquivos binários.
 
